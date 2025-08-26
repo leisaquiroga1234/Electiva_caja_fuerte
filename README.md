@@ -2,9 +2,9 @@
 Este proyecto implementa un sistema de caja fuerte
 
 ## Características principales
-- Funcionalidad 1
-- Funcionalidad 2
-- Integración con Y
+- Autenticador
+- Cifrado
+- Exportar Importar Eliminar 
 
 ## Requisitos
 - Hardware: Lista de componentes
