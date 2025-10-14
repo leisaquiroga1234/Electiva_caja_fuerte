@@ -13,4 +13,4 @@ Este proyecto implementa un sistema de caja fuerte
 ## Instalación
 git clone https://github.com/leisaquiroga1234/Electiva_caja_fuerte.git
 cd Electiva_caja_fuerte
-flutter pub get
+flutter pub get 
